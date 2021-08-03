@@ -2,7 +2,7 @@
 Claim listing screen with User Management
 
 #### Installation
-After download this use ```npm run install``` command to install the environment
+After download or clone this use ```npm run install``` command to install the environment
 
 #### Run as application
 Use ```npm run server``` command to run this application
